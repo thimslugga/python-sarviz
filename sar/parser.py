@@ -16,7 +16,7 @@ import os
 import re
 import traceback
 import logging
-from types import ListType
+#from types import ListType
 import platform
 
 
